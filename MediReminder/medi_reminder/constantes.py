@@ -1,0 +1,3 @@
+DIRECTORIO_DATA = "data"
+EXTENSION_DATA = ".dat"
+

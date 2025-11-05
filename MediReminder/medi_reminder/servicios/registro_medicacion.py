@@ -2,9 +2,7 @@ import os
 import pickle
 from datetime import datetime
 from medi_reminder.excepciones.error_de_persistencia import ErrorDePersistencia
-
-DIRECTORIO_DATA = "data"
-EXTENSION_DATA = ".dat"
+from medi_reminder.constantes import DIRECTORIO_DATA, EXTENSION_DATA
 
 
 class RegistroMedicacion:
